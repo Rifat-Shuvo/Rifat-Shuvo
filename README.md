@@ -61,24 +61,79 @@ MongoDB -->
 ### Intermediate:
 [![My Skills](https://skillicons.dev/icons?i=next,bootstrap,figma,c,python&theme=light&perline=5)](https://skillicons.dev)
 
-## Overview of Status
+## Overview of My GitHub Status
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Rifat-shuvo&theme=sea)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Rifat-shuvo&theme=github-light)](https://git.io/streak-stats)
 
-<!-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Rifat-shuvo&theme=swift)](https://git.io/streak-stats) -->
+## Some of My Impressive Project
+**1. Gulshan Tower :** It is the building management project. It was making for those people who want to manage his building in remotely.
 
-<!-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Rifat-shuvo&theme=sea-dark)](https://git.io/streak-stats) -->
+#### Features:
+
+***It is super easy and user friendly UI.
+
+*** There is no complexity about the source code.
+
+*** As the entire source code have super readability, So, all type of developer can understand easily.
+
+*** The entire website Ui is super friendly, Any user can easily understood about this.
+
+*** No complexity & the entire code is dynamic and easily scalable.
+
+*** There have three roles of a user. (user, Members & Admin)
+
+***Also, There have a specific roles and previledges of this three types of users.
+
+#### live link: https://practise-da4fb.web.app
 
 
-## Here are simple overview of myself
+**2. Study-Sites:** It is the online based education platform which focused is to manage assignment of the students.
+#### Features:
+*** The site is super interactive
 
-- 🔭 I’m currently working on self project
-- 🌱 I’m currently learning MUI & Mongoose
-- 👯 I’m looking to collaborate on open source projects
-- 🤔 I’m looking for help with coders
-- 💬 Ask me about webdevelopment
-- 📫 How to reach me: ...
-- 😄 Pronouns: shuvo
-- ⚡ Fun fact: music with code
+*** The UI Of This site is very nice and user friendly
+
+*** All the necessary Function is implemented here sucessfully
+
+*** The site is useful for study institutions
+
+*** The code of this site is readable.
+
+*** There have a private route where a registered user can get extra previledges.
+
+#### live link: https://studyh-3f60b.web.app
+
+
+**3. Brand-Shops:**
+#### Features:
+
+*** This is the first ever fullstacjk site which is ineract the database.
+
+*** This site have impressive UI which is easy to understand.
+
+*** This site have no complexity, any developers can understand codes.
+
+***This site have login & signup functionalities.
+
+*** This site have the some private route and authentication setup
+
+***This site is easy to maintainance.
+
+*** The data is categorized by brand and fetching from the database.
+
+*** There is a add product page where only registered user can add products.
+
+#### live link: https://brand-shop-12da9.web.app
+
+## Here are simple facts of myself:
+
+- 🔭 I’m currently working on self project.
+- 🌱 I’m currently learning MUI & Mongoose.
+- 👯 I’m looking to collaborate on open source projects.
+- 🤔 I’m looking for help with coders.
+- 💬 Ask me about web development.
+- 😄 Pronouns: Michka Shuvo.
+- ⚡ Fun fact: Singing in shower time.
+<!-- - 📫 How to reach me: ... -->
  
 
