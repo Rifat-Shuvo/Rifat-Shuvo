@@ -59,7 +59,7 @@ MongoDB -->
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,react,firebase,express,nodejs,mongodb,tailwind&theme=light&perline=5)](https://skillicons.dev)
 
 ### Intermediate:
-[![My Skills](https://skillicons.dev/icons?i=next,bootstrap,figma,c,python&theme=light&perline=5)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=next,git,github,bootstrap,figma,c,python&theme=light&perline=5)](https://skillicons.dev)
 
 ## Overview of My GitHub Status
 
