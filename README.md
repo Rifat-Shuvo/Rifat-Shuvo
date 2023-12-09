@@ -10,12 +10,12 @@ I am constantly seeking new challenges and opportunities to expand my knowledge 
 My vision is to simplify and ease the day-to-day lives of individuals and companies through the power of the web. I believe that technology has the potential to make a positive impact on the world, and I am committed to using my skills to make that happen.
 
 ## Feel Free to Talk
-Anytime Any where !!! Get your reply within **1 minutes**
+Anytime Any where !!! Get your reply within **a minutes**
 
 <a href="https://www.linkedin.com/in/md-rifat-hossain-shuvo-b7aa45247">![Static Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)</a>
 <a href="mailto:rhshuvo2812@gmail.com">![Static Badge](https://img.shields.io/badge/Gmail-red?style=flat-square&logo=Gmail&logoColor=white)</a>
 <a href="tel:+8801725536811">![Static Badge](https://img.shields.io/badge/Whatsapp-2b9117?style=flat-square&logo=whatsapp&logoColor=white)</a>
-<a href="#">![Static Badge](https://img.shields.io/badge/twitter-white?style=flat-square&logo=twitter)</a>
+<a href="#">![Static Badge](https://img.shields.io/badge/twitter-grey?style=flat-square&logo=twitter)</a>
 <a href="https://www.facebook.com/rifathossainshuvo.hossain">![Static Badge](https://img.shields.io/badge/facebook-blue?style=flat-square&logo=facebook)
 </a>
 
@@ -38,7 +38,7 @@ Anytime Any where !!! Get your reply within **1 minutes**
 
 , CSS3, JavaScript, React JS, Tailwind CSS, Bootstrap -->
 ### Authentication: 
-![Static Badge](https://img.shields.io/badge/Firebase-%23fff?style=flat-square&logo=firebase&logoColor=%23FFCA28)
+![Static Badge](https://img.shields.io/badge/Firebase-gray?style=flat-square&logo=firebase&logoColor=%23FFCA28)
 
 
 <!-- 
@@ -62,12 +62,12 @@ MongoDB -->
 [![My Skills](https://skillicons.dev/icons?i=next,bootstrap,figma,c,python&theme=light&perline=5)](https://skillicons.dev)
 
 ## Overview of Status
-<!-- 
+
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Rifat-shuvo&theme=sea)](https://git.io/streak-stats)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Rifat-shuvo&theme=swift)](https://git.io/streak-stats) -->
+<!-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Rifat-shuvo&theme=swift)](https://git.io/streak-stats) -->
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Rifat-shuvo&theme=sea-dark)](https://git.io/streak-stats)
+<!-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Rifat-shuvo&theme=sea-dark)](https://git.io/streak-stats) -->
 
 
 ## Here are simple overview of myself
