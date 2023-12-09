@@ -37,19 +37,19 @@ Anytime Any where !!! Get your reply within **1 minutes**
 
 
 , CSS3, JavaScript, React JS, Tailwind CSS, Bootstrap -->
-#### Authentication: 
+### Authentication: 
 ![Static Badge](https://img.shields.io/badge/Firebase-%23fff?style=flat-square&logo=firebase&logoColor=%23FFCA28)
 
 
 <!-- 
 Firebase -->
-#### Server-side : 
+### Server-side : 
 ![Static Badge](https://img.shields.io/badge/ExpressJS-black?style=flat-square&logo=express) 
  ![Static Badge](https://img.shields.io/badge/NodeJS-%23339933?style=flat-square&logo=nodedotjs&logoColor=white)
 
 
 <!-- Express JS, Node JS -->
-#### Database : 
+### Database : 
 ![Static Badge](https://img.shields.io/badge/MongoDB-%23339933?style=flat-square&logo=mongodb&logoColor=white)
 <!-- 
 MongoDB -->
