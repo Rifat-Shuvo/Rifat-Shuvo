@@ -104,7 +104,7 @@ MongoDB -->
 #### live link: https://studyh-3f60b.web.app
 
 
-**3. Brand-Shops:**
+**3. Brand-Shops:** It is the simple e-commerce sites. It is used to showcase in the electronic goods. It is categorized with the specific brands.
 #### Features:
 
 *** This is the first ever fullstacjk site which is ineract the database.
