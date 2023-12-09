@@ -63,7 +63,8 @@ MongoDB -->
 
 ## Overview of My GitHub Status
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Rifat-shuvo&theme=github-light)](https://git.io/streak-stats)
+<!-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Rifat-Shuvo&theme=github-light)](https://git.io/streak-stats) -->
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Rifat-Shuvo&theme=solarized-dark)](https://git.io/streak-stats)
 
 ## Some of My Impressive Project
 **1. Gulshan Tower :** It is the building management project. It was making for those people who want to manage his building in remotely.
