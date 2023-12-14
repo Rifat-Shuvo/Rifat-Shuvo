@@ -16,8 +16,10 @@ Anytime Any where !!! Get your reply within **a minutes**
 <a href="mailto:rhshuvo2812@gmail.com">![Static Badge](https://img.shields.io/badge/Gmail-red?style=flat-square&logo=Gmail&logoColor=white)</a>
 <a href="https://wa.me/8801725536811">![Static Badge](https://img.shields.io/badge/Whatsapp-2b9117?style=flat-square&logo=whatsapp&logoColor=white)</a>
 <a href="#">![Static Badge](https://img.shields.io/badge/twitter-grey?style=flat-square&logo=twitter)</a>
+<a href="tel:+8801725536811">![Static Badge](https://img.shields.io/badge/Call_Now-red?logo=allocine)</a>
 <a href="https://www.facebook.com/rifathossainshuvo.hossain">![Static Badge](https://img.shields.io/badge/facebook-blue?style=flat-square&logo=facebook)
 </a>
+
 
 ## My Fields of Work
 - 💻 Front-end Web Development.
