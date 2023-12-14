@@ -14,7 +14,7 @@ Anytime Any where !!! Get your reply within **a minutes**
 
 <a href="https://www.linkedin.com/in/md-rifat-hossain-shuvo-b7aa45247">![Static Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)</a>
 <a href="mailto:rhshuvo2812@gmail.com">![Static Badge](https://img.shields.io/badge/Gmail-red?style=flat-square&logo=Gmail&logoColor=white)</a>
-<a href="tel:+8801725536811">![Static Badge](https://img.shields.io/badge/Whatsapp-2b9117?style=flat-square&logo=whatsapp&logoColor=white)</a>
+<a href="https://wa.me/8801725536811">![Static Badge](https://img.shields.io/badge/Whatsapp-2b9117?style=flat-square&logo=whatsapp&logoColor=white)</a>
 <a href="#">![Static Badge](https://img.shields.io/badge/twitter-grey?style=flat-square&logo=twitter)</a>
 <a href="https://www.facebook.com/rifathossainshuvo.hossain">![Static Badge](https://img.shields.io/badge/facebook-blue?style=flat-square&logo=facebook)
 </a>
